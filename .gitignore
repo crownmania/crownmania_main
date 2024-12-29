@@ -20,6 +20,9 @@
 .firebaserc
 firebase-debug.log
 
+# large files
+src/assets/models/durk-model.glb
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
